@@ -1,4 +1,4 @@
-def myFun(x,y=50):
+def myFun(x,a=50):
   print("x:",x)
-  print("y:",y)
+  print("a:",a)
 myfun(10)
